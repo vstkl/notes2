@@ -11,10 +11,14 @@
             "id": "566388944d6b27d9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "xoxo.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "xoxo"
             }
           }
         ]
@@ -172,6 +176,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b9cb62c037917ea4",
-  "lastOpenFiles": []
+  "active": "566388944d6b27d9",
+  "lastOpenFiles": [
+    "touch.md",
+    "xoxo.md"
+  ]
 }
